@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="banner.png" title="Filebeam" alt="Filebeam">
+    <img src="icon.png" title="Filebeam" alt="Icono de Filebeam" height="80"
+    width="80">
     <h3 align="center">
         Comparte archivos, en cualquier lugar.
     </h3>
@@ -13,9 +14,3 @@
         </strong>
     </a>
 </div>
-
-## Repositorios principales
-
-- **[filebeam/api](https://github.com/filebeam/api):** La API de Filebeam
-- **[filebeam/web](https://github.com/filebeam/web):** La aplicación web de
-  Filebeam
