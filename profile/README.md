@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="icon.png" title="Filebeam" alt="Icono de Filebeam" height="80"
-    width="80">
+    <img src="banner.png" title="Filebeam" alt="Filebeam" width="400">
     <h3 align="center">
         Comparte archivos, en cualquier lugar.
     </h3>
